@@ -83,6 +83,7 @@ body{
 .start-screen{
     background: url(../img/start-screen-gradient-background.png) no-repeat center;
     background-size: cover;
+    background-color: #545454;
     padding: 180px 40px 0;
     display: flex;
     justify-content: space-between;
@@ -143,6 +144,7 @@ body{
 .title{
     font-family: Georgia;
     font-size: 35px;
+    font-weight: normal;
     line-height: 130%;
     letter-spacing: 0.06em;
     color: #545454;
@@ -173,6 +175,7 @@ body{
     background: #F6F6F6;
 }
 .pets__title, .help__title{
+    font-weight: normal;
     text-align: center;
     max-width: 400px;
     margin-bottom: 60px;
@@ -221,6 +224,7 @@ body{
 .pets__card--title, .help__items--title{
     font-family: Georgia;
     font-size: 20px;
+    font-weight: normal;
     line-height: 115%;
     letter-spacing: 0.06em;
     color: #545454;
@@ -291,6 +295,7 @@ body{
     max-width: 380px;
 }
 .donation__title{
+    font-weight: normal;
     margin-bottom: 20px;
 }
 .donation__subtitle{
@@ -333,6 +338,7 @@ body{
 .footer{
     background: url(../img/start-screen-gradient-background.png) no-repeat center;
     background-size: cover;
+    background-color: #545454;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -349,6 +355,7 @@ body{
     padding-top: 16px;
 }
 .contacts__title,.location__title{
+    font-weight: normal;
     color: #FFFFFF;
     margin-bottom: 40px;
 }
@@ -396,6 +403,7 @@ body{
     text-decoration: none;
 }
 .location__title{
+    font-weight: normal;
     margin-bottom: 34px;
 }
 .fooret-contacts__adress{
