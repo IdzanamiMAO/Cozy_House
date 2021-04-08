@@ -269,12 +269,7 @@ body{
 }
 .help__items:first-child{
     padding-bottom: 55px;
-}
-.help__items:first-child{
     padding-left: 0;
-}
-.vit{
-    padding-left: 85px;
 }
 .help__items--icon{
     width: 60px;
