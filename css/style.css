@@ -256,7 +256,8 @@ body{
 
 /*начало стилей Help*/
 .inner__list{
-    padding: 0 87px;
+    width: 1200px;
+    padding: 0 83px;
     display: flex;
     flex-wrap: wrap;
 }
@@ -271,6 +272,10 @@ body{
     padding-bottom: 55px;
     padding-left: 0;
 }
+.help__items:nth-of-type(6){
+    padding-left: 90px;
+}
+
 .help__items--icon{
     width: 60px;
     margin-bottom: 30px;
