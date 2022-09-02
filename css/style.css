@@ -257,7 +257,6 @@ body{
 /*начало стилей Help*/
 .inner__list{
     width: 1200px;
-    padding: 0 83px;
     display: flex;
     flex-wrap: wrap;
 }
@@ -266,14 +265,14 @@ body{
     flex-direction: column;
     align-items: center;
     text-align: center;
-    padding-left: 118px;
+    padding-left: 120px;
 }
 .help__items:first-child{
     padding-bottom: 55px;
-    padding-left: 0;
+    padding-left: 87px;
 }
 .help__items:nth-of-type(6){
-    padding-left: 90px;
+    padding-left: 173px;
 }
 
 .help__items--icon{
