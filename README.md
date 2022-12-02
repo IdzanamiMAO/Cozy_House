@@ -2,6 +2,7 @@
 
 _static page layout for 1280px resolution_ 
 
+****************************
 Skils: 
  * pixel perfect;
  * use flexbox;
